@@ -1,4 +1,4 @@
-
+echo "Yue"
 nSecret=$(($RANDOM%11))
 
 echo "escriu el teu nom"
