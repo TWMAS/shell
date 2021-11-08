@@ -5,4 +5,5 @@ do
     # @ és nombre d'elements d'un array
     # printf ens permet escriure sense salt de línia (a diferència del echo que sí el posa)
     echo $var 
+    #echo posa tot amb intro printf posa totes les paraules junts
 done
