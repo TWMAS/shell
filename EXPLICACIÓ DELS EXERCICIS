@@ -1,1 +1,62 @@
-.
+ORDRE DELS EXERCICIS
+
+0. Variables
+https://github.com/TWMAS/shell/blob/main/variable1.sh
+anomenar el document
+https://github.com/TWMAS/shell/blob/main/variable2.sh
+denominar un variable
+https://github.com/TWMAS/shell/blob/main/variable3.sh
+operacions de variables
+https://github.com/TWMAS/shell/blob/main/variable4.sh
+ampliacions del ejercici anterior
+
+
+1. Càlcul temporal
+https://github.com/TWMAS/shell/blob/main/probcalcultemp.sh
+https://github.com/TWMAS/shell/blob/main/probcalcultemp2.sh
+
+2.Endevinar el numero secret
+https://github.com/TWMAS/shell/blob/main/endevinar.sh
+endevinar el numero secret
+https://github.com/TWMAS/shell/blob/main/variable5.sh
+endevinar numero secret amb if
+
+3. Càlcul d'hores al leatori
+https://github.com/TWMAS/shell/blob/main/hores2.sh
+https://github.com/TWMAS/shell/blob/main/hores3.sh
+
+4. Condicionals
+https://github.com/TWMAS/shell/blob/main/condicional1.sh
+https://github.com/TWMAS/shell/blob/main/condicional2.sh
+https://github.com/TWMAS/shell/blob/main/condicional3.sh
+
+5.Hora màxima
+https://github.com/TWMAS/shell/blob/main/arghoramax.sh
+
+6.Arguments
+https://github.com/TWMAS/shell/blob/main/arguments1.sh
+https://github.com/TWMAS/shell/blob/main/arguments2.sh
+
+7.Array
+https://github.com/TWMAS/shell/blob/main/arrey.sh
+demostrar nombre de determinat posició
+https://github.com/TWMAS/shell/blob/main/arrey2.sh
+demostrar les variables
+https://github.com/TWMAS/shell/blob/main/array5.sh
+contar h
+https://github.com/TWMAS/shell/blob/main/array6.sh
+demostrar els nombres
+
+8.Potències
+https://github.com/TWMAS/shell/blob/main/potencies.sh
+fer potencia
+https://github.com/TWMAS/shell/blob/main/potencies4.sh
+fer potencia en graella
+
+
+
+
+
+
+
+
